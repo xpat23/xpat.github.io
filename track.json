@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": null,
+        "full_name": "Венера Назаралиева - Сүйүңдү уурдап кетем",
+        "country": {
+            "id": 1,
+            "name": "Кыргызстан"
+        },
+        "src": "uploads/tracks/48ecb1115ded95880953e9708dbaddaf.mp3",
+        "create_date": null
+    },
+    {
+        "id": 2,
+        "name": null,
+        "full_name": "Asel_Kadyirbekova_Janyinda_bolsom_deym",
+        "country": {
+            "id": 1,
+            "name": "Кыргызстан"
+        },
+        "src": "uploads/tracks/4b3586a48dff128173863ccd89e02d74.mp3",
+        "create_date": "2018-01-10T11:51:54+00:00"
+    }
+]
